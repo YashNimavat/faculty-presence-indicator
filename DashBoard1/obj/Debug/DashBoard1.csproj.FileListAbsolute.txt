@@ -1,0 +1,55 @@
+c:\users\mr.yash\documents\visual studio 2015\Projects\DashBoard1\DashBoard1\bin\Debug\DashBoard1.exe.config
+c:\users\mr.yash\documents\visual studio 2015\Projects\DashBoard1\DashBoard1\bin\Debug\DashBoard1.exe
+c:\users\mr.yash\documents\visual studio 2015\Projects\DashBoard1\DashBoard1\bin\Debug\DashBoard1.pdb
+c:\users\mr.yash\documents\visual studio 2015\Projects\DashBoard1\DashBoard1\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\mr.yash\documents\visual studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.csprojResolveAssemblyReference.cache
+c:\users\mr.yash\documents\visual studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.Form1.resources
+c:\users\mr.yash\documents\visual studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.Properties.Resources.resources
+c:\users\mr.yash\documents\visual studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.csproj.GenerateResource.Cache
+c:\users\mr.yash\documents\visual studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.exe
+c:\users\mr.yash\documents\visual studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.pdb
+C:\Users\Mr.Yash\Documents\Visual Studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.Login.resources
+G:\ssd data\Documents\Visual Studio 2015\Projects\DashBoard1\DashBoard1\bin\Debug\DashBoard1.exe.config
+G:\ssd data\Documents\Visual Studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.exe
+G:\ssd data\Documents\Visual Studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.pdb
+G:\ssd data\Documents\Visual Studio 2015\Projects\DashBoard1\DashBoard1\bin\Debug\DashBoard1.exe
+G:\ssd data\Documents\Visual Studio 2015\Projects\DashBoard1\DashBoard1\bin\Debug\DashBoard1.pdb
+G:\ssd data\Documents\Visual Studio 2015\Projects\DashBoard1\DashBoard1\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\ssd data\Documents\Visual Studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.csprojResolveAssemblyReference.cache
+G:\ssd data\Documents\Visual Studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.Form1.resources
+G:\ssd data\Documents\Visual Studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.Login.resources
+G:\ssd data\Documents\Visual Studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.Properties.Resources.resources
+G:\ssd data\Documents\Visual Studio 2015\Projects\DashBoard1\DashBoard1\obj\Debug\DashBoard1.csproj.GenerateResource.Cache
+D:\DotNet\DashBoard1\DashBoard1\bin\Debug\DashBoard1.exe.config
+D:\DotNet\DashBoard1\DashBoard1\obj\Debug\DashBoard1.exe
+D:\DotNet\DashBoard1\DashBoard1\obj\Debug\DashBoard1.pdb
+D:\DotNet\DashBoard1\DashBoard1\bin\Debug\DashBoard1.exe
+D:\DotNet\DashBoard1\DashBoard1\bin\Debug\DashBoard1.pdb
+D:\DotNet\DashBoard1\DashBoard1\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\DotNet\DashBoard1\DashBoard1\obj\Debug\DashBoard1.csprojResolveAssemblyReference.cache
+D:\DotNet\DashBoard1\DashBoard1\obj\Debug\DashBoard1.Login.resources
+D:\DotNet\DashBoard1\DashBoard1\obj\Debug\DashBoard1.Properties.Resources.resources
+D:\DotNet\DashBoard1\DashBoard1\obj\Debug\DashBoard1.csproj.GenerateResource.Cache
+D:\DotNet\DashBoard1\DashBoard1\obj\Debug\DashBoard1.Resetpwd.resources
+D:\DotNet\DashBoard1\DashBoard1\obj\Debug\DashBoard1.Leave.resources
+D:\DotNet\DashBoard1\DashBoard1\obj\Debug\DashBoard1.Changepwd.resources
+D:\DotNet\DashBoard1\DashBoard1\obj\Debug\DashBoard1.CustomMessage.resources
+D:\DotNet\DashBoard1\DashBoard1\obj\Debug\DashBoard1.Home.resources
+C:\Users\ck\Desktop\C#\DashBoard1\bin\Debug\DashBoard1.exe.config
+C:\Users\ck\Desktop\C#\DashBoard1\obj\Debug\DashBoard1.exe
+C:\Users\ck\Desktop\C#\DashBoard1\obj\Debug\DashBoard1.pdb
+C:\Users\ck\Desktop\C#\DashBoard1\bin\Debug\DashBoard1.exe
+C:\Users\ck\Desktop\C#\DashBoard1\bin\Debug\DashBoard1.pdb
+C:\Users\ck\Desktop\C#\DashBoard1\bin\Debug\MySql.Data.dll
+C:\Users\ck\Desktop\C#\DashBoard1\bin\Debug\MySql.Web.dll
+C:\Users\ck\Desktop\C#\DashBoard1\bin\Debug\Google.Protobuf.dll
+C:\Users\ck\Desktop\C#\DashBoard1\bin\Debug\MySql.Data.xml
+C:\Users\ck\Desktop\C#\DashBoard1\bin\Debug\MySql.Web.xml
+C:\Users\ck\Desktop\C#\DashBoard1\obj\Debug\DashBoard1.Changepwd.resources
+C:\Users\ck\Desktop\C#\DashBoard1\obj\Debug\DashBoard1.CustomMessage.resources
+C:\Users\ck\Desktop\C#\DashBoard1\obj\Debug\DashBoard1.Home.resources
+C:\Users\ck\Desktop\C#\DashBoard1\obj\Debug\DashBoard1.Login.resources
+C:\Users\ck\Desktop\C#\DashBoard1\obj\Debug\DashBoard1.Properties.Resources.resources
+C:\Users\ck\Desktop\C#\DashBoard1\obj\Debug\DashBoard1.Resetpwd.resources
+C:\Users\ck\Desktop\C#\DashBoard1\obj\Debug\DashBoard1.csproj.GenerateResource.Cache
+C:\Users\ck\Desktop\C#\DashBoard1\obj\Debug\DashBoard1.csprojResolveAssemblyReference.cache
